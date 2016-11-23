@@ -1,6 +1,6 @@
 {
   "name": "Cobblestone pe",
   "tagline": "",
-  "body": "<img src=\"https://tse3.mm.bing.net/th?id=OIP.M114c8a8eb475a1fa527eae32794d74a8o0&pid=15.1\">\r\n<form id='login' action='login.php' method='post' accept-charset='UTF-8'>\r\n<fieldset >\r\n<legend>Login</legend>\r\n<input type='hidden' name='submitted' id='submitted' value='1'/>\r\n \r\n<label for='username' >UserName*:</label>\r\n<input type='text' name='username' id='username'  maxlength=\"50\" />\r\n \r\n<label for='password' >Password*:</label>\r\n<input type='password' name='password' id='password' maxlength=\"50\" />\r\n \r\n<input type='submit' name='Submit' value='Submit' />\r\n \r\n</fieldset>\r\n</form>",
+  "body": "<img src=\"https://tse3.mm.bing.net/th?id=OIP.M114c8a8eb475a1fa527eae32794d74a8o0&pid=15.1\">\r\n\r\n<form id='login' action='login.php' method='post' accept-charset='UTF-8'>\r\n<fieldset >\r\n<legend>Login</legend>\r\n<input type='hidden' name='submitted' id='submitted' value='1'/>\r\n \r\n<label for='username' >UserName*:</label>\r\n<input type='text' name='username' id='username'  maxlength=\"50\" />\r\n \r\n<label for='password' >Password*:</label>\r\n<input type='password' name='password' id='password' maxlength=\"50\" />\r\n \r\n<input type='submit' name='Submit' value='Submit' />\r\n \r\n</fieldset>\r\n</form>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
